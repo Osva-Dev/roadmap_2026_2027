@@ -1,3 +1,5 @@
+//Pedir 2 numeros al usuario y sumarlos, restarlos, multiplicarlos y dividirlos.
+
 Algoritmo operaciones_matematicas_dos_numeros
 	Definir num1, num2, sum, res, mul, div como Real 
 	Escribir "Ingresa el Primer Digito: "

@@ -1,3 +1,5 @@
+//Hacer un programa que obtenga la media geométrica de tres números
+
 Algoritmo media_geometrica_tres_numeros
 	Definir num1, num2, num3, mg Como Real
 	Escribir "Ingresa el primer numero: "

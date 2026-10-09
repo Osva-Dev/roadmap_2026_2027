@@ -1,3 +1,5 @@
+// Convertir grados célsius a Grados Fahrenheit.
+
 Algoritmo celcius_fahrenheit
 	Definir c,f como Reales
 	Escribir "Agrega los °C que quieres convertir a °F: "

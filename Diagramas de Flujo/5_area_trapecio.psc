@@ -1,3 +1,5 @@
+//Hacer un Programa que calcule areas de trapecios.
+
 Algoritmo area_trapecio
 	Definir baseMayor, baseMenor, h, a Como Real
 	Escribir "Ingresa el valor de la Base Mayor: "

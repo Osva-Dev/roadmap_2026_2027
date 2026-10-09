@@ -1,3 +1,5 @@
+//Hacer un Programa que calcule longitudes de circunferencia.
+
 Algoritmo circunferencia
 	Definir r,c como Real
 	Escribir "Ingresa el radio para determinar su circunferencia: "

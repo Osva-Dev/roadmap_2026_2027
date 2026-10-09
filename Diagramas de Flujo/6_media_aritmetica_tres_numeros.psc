@@ -1,3 +1,5 @@
+//Calcule la media aritmética de tres números cualesquiera.
+
 Algoritmo media_aritmetica_tres_numeros
 	Definir num1, num2, num3, a Como Real
 	Escribir "Ingresa el primer digito: "

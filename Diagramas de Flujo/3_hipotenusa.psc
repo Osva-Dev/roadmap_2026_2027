@@ -1,3 +1,5 @@
+//3. Sacar la hipotenusa de un triangulo rectangulo, pidiendo al usuario el valor de los 2 catetos.
+
 Algoritmo hipotenusa
 	Definir h, c1, c2 Como Real
 	Escribir 'Ingresa el valor del C1: '

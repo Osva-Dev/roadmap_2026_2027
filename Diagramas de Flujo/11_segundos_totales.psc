@@ -1,3 +1,5 @@
+//11. Calcular la cantidad de segundos que estan incluidos en el numero de horas, minutos y segundos ingresados por el usuario.
+
 Algoritmo segundos_totales
 	Definir h, m, s, segundosTotales Como Entero
 	Escribir 'Ingresa las horas de tu horario que quieres pasar a segundos: '

@@ -1,3 +1,5 @@
+//Calcular el nuevo salario de un obrero si obtuvo un incremento del 25% sobre su salario anterior.
+
 Algoritmo aumento_salarial
 	Definir salario, aumento, salarioFinal Como Real
 	Escribir "Ingresa el salario actual del trabajador: "
