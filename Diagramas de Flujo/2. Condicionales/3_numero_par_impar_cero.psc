@@ -1,15 +1,27 @@
 // Determinar si un numero es par, impar o cero.
-Algoritmo numero_par_impar_cero
-	Definir num Como Real
-	Escribir "Ingresa un numero para determinar si es par o impar: "
-	Leer num
-	Si num == 0 Entonces
-		Escribir "El numero es 0"
+Algoritmo numero_mayor_tres_numeros
+	Definir num1, num2, num3 Como Real
+	Escribir 'Ingresa el primer numero: '
+	Leer num1
+	Escribir 'Ingresa el segundo numero: '
+	Leer num2
+	Escribir 'Ingresa el tercer numero: '
+	Leer num3
+	Si num1 = num2 = num3 Entonces
+		Escribir "Los tres numeros son el mismo"
 	SiNo
-		Si num mod 2 == 0 Entonces
-			Escribir "El numero ingresado es par"
+		Si num1>num2 Entonces
+			Si num1>num3 Entonces
+				Escribir num1, ' es el numero mayor.'
+			SiNo
+				Escribir num3, ' es el numero mayor.'
+			FinSi
 		SiNo
-			Escribir "El numero ingresado es impar"
+			Si num2>num3 Entonces
+				Escribir num2, ' es el numero mayor.'
+			SiNo
+				Escribir num3, ' es el numero mayor'
+			FinSi
 		FinSi
 	FinSi
 FinAlgoritmo
